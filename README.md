@@ -1,7 +1,7 @@
 ### Olá ??
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kae-montoia" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kae-montoia&include_all_commits=true&theme=dark&count_private=true" />
 </a>
 
 <!--<a href="https://github.com/anuraghazra/convoychat">
