@@ -4,6 +4,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kae-montoia" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kae-montoia&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <!--<div align="start">
   <a href="https://github.com/kae-montoia">
