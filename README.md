@@ -1,11 +1,16 @@
 ### Olá ??
 
-<div align="start">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kae-montoia" />
+</a>
+
+
+<!--<div align="start">
   <a href="https://github.com/kae-montoia">
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=kae-montoia&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kae-montoia&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kae-montoia&layout=compact&langs_count=7&theme=dark"/> -->
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kae-montoia&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kae-montoia&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
   
 <!--<div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
